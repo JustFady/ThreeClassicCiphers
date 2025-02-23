@@ -1,0 +1,13 @@
+
+Group4_CPSC353_TCC/ciphertext.txt
+*.log
+Group4_CPSC353_TCC/cmake-build-debug/.ninja_deps
+Group4_CPSC353_TCC/cmake-build-debug/.ninja_log
+*.obj
+*.exe
+.idea/workspace.xml
+*.json
+/Group4_CPSC353_TCC/cmake-build-debug
+*.ninja
+*.xml
+Group4_CPSC353_TCC/cmake-build-debug/CMakeCache.txt
